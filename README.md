@@ -10,3 +10,8 @@ test
 test
 test
 
+
+stash
+stash
+modif pour stash
+bstash
